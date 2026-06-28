@@ -3,7 +3,7 @@ const Experience = () => {
     {
       role: 'Infosys Advanced AI Internship',
       company: 'Infosys',
-      period: '2024',
+      period: '2026',
       icon: '🚀',
       description: 'Developed audio fluency evaluation system using Python, Librosa, and OpenSmile. Implemented machine learning techniques for real-time audio analysis and fluency assessment.',
     },
